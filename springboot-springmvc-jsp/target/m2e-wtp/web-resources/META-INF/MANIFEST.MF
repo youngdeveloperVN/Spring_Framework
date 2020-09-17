@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ProductManagement
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Huy
+Implementation-Vendor-Id: com.spring.demo
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ProductManagement
+Created-By: Maven Integration for Eclipse
+
